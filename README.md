@@ -1,4 +1,4 @@
-# AdventureWorks_RevenueDashboard
+# Power BI dashboard. Выручка: динамика и структура. 
 
 ## Модель данных
 
